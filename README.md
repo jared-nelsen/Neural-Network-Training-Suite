@@ -1,6 +1,6 @@
 # Neural-Network-Video-Compression
 A scratch-built neural network training and application suite. I implemented a customizable deep-neural network
-to train against randomized vector data to begin to experiment with video compression, wherein input seed vectors
+to train against randomized vector data to begin to experiment with vector mapping, wherein input seed vectors
 are smaller than the output vectors. I built a Genetic Algorithm as the primary training algorithm but also inluded
 experimental implementations of Particle Swarm Optimization and Ensemble Learning. The Genetic Algorithm is
 multi-threaded and I also attempted to harness GPU matrix evaluation using Aparapi but never completed it.
