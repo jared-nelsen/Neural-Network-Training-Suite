@@ -1,6 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="NNVC:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/NNVC_jar</output-path>
-    <root id="archive" name="NNVC.jar" />
-  </artifact>
-</component>
